@@ -182,4 +182,7 @@
     - Dijkstra’s shortest path algorithm
     - Topological Sort
     - Bellman ford
-    - A* pathfinding Algorithm
+   - A* pathfinding Algorithm
+   _________________________________
+   -Just try to learn
+
